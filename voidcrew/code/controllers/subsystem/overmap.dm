@@ -261,6 +261,7 @@ SUBSYSTEM_DEF(overmap)
 	var/area/target_area
 	var/turf/surface = /turf/open/space
 	var/datum/weather_controller/weather_controller_type
+
 	if(!isnull(planet_type))
 		planet_type = new planet_type
 		ruin_list = get_ruin_list(planet_type.ruin_type)
