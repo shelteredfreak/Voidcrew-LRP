@@ -1,0 +1,273 @@
+"aa" = (/obj/machinery/suit_storage_unit,/obj/item/tank/internals/oxygen,/obj/item/clothing/mask/gas/atmos,/obj/item/clothing/suit/space/hardsuit/ert/paranormal/inquisitor,/obj/effect/turf_decal/techfloor/orange{dir = 9},/obj/machinery/light{dir = 1},/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"ad" = (/obj/machinery/suit_storage_unit,/obj/item/tank/internals/oxygen,/obj/item/clothing/mask/gas/atmos,/obj/item/clothing/suit/space/hardsuit/ert/paranormal/inquisitor,/obj/structure/window/bronze{dir = 4},/obj/effect/turf_decal/techfloor/orange{dir = 5},/obj/machinery/light{dir = 1},/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"ao" = (/obj/structure/cable{icon_state = "4-9"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"aq" = (/obj/structure/lattice/clockwork,/turf/closed/wall/mineral/bronze,/area/ship/construction)
+"aJ" = (/obj/machinery/atmospherics/pipe/simple/yellow/visible{dir = 9},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"bf" = (/obj/machinery/atmospherics/pipe/simple/cyan/visible,/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"bg" = (/obj/structure/cable{icon_state = "0-2"},/obj/machinery/power/port_gen/pacman,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"bq" = (/obj/machinery/atmospherics/components/unary/tank/oxygen,/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"bu" = (/obj/structure/closet/crate/freezer,/obj/item/organ/ears/bronze,/obj/item/organ/ears/bronze,/obj/item/organ/ears/bronze,/obj/item/organ/ears/bronze,/obj/item/organ/ears/bronze,/obj/item/organ/ears/bronze,/turf/open/floor/bronze/light,/area/ship/medical)
+"bG" = (/obj/machinery/door/poddoor{id = reebeleft},/turf/open/floor/bronze/light,/area/ship/construction)
+"ci" = (/obj/structure/table/bronze,/obj/item/storage/toolbox/electrical{pixel_x = 1; pixel_y = 6},/obj/item/storage/toolbox/mechanical{pixel_x = -2; pixel_y = -1},/obj/item/storage/belt/utility,/obj/item/clothing/glasses/welding,/turf/open/floor/bronze/light,/area/ship/construction)
+"co" = (/obj/structure/cable{icon_state = "2-5"},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"cV" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"cZ" = (/obj/structure/fluff/clockwork/blind_eye,/obj/machinery/light{dir = 4},/turf/open/floor/bronze/light,/area/ship/construction)
+"dq" = (/obj/structure/dresser,/obj/structure/mirror{pixel_y = 26},/turf/open/floor/bronze/light,/area/ship/crew/dorm)
+"du" = (/obj/structure/table/optable,/turf/open/floor/bronze/light,/area/ship/medical)
+"dz" = (/obj/machinery/atmospherics/components/unary/tank/air,/obj/machinery/atmospherics/components/unary/tank/air,/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"dK" = (/obj/machinery/computer/camera_advanced,/obj/machinery/light{dir = 8},/turf/open/floor/bronze/light,/area/ship/bridge)
+"dS" = (/obj/structure/cable{icon_state = "2-8"},/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"eb" = (/obj/machinery/atmospherics/components/binary/pump{dir = 8; name = "engine fuel pump"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"et" = (/obj/machinery/door/airlock/bronze/seethru,/turf/open/floor/bronze,/area/ship/engineering/electrical)
+"fa" = (/obj/structure/lattice/clockwork,/obj/structure/lattice/catwalk/clockwork,/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{dir = 8},/turf/template_noop,/area/ship/engineering/electrical)
+"fd" = (/obj/machinery/door/airlock/bronze/seethru,/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"fh" = (/obj/machinery/computer/helm,/turf/open/floor/bronze/light,/area/ship/bridge)
+"fm" = (/obj/structure/fluff/clockwork/alloy_shards/large,/obj/machinery/button/door{id = reebeleft; pixel_x = -25},/turf/open/floor/bronze/light,/area/ship/construction)
+"fw" = (/obj/machinery/atmospherics/components/unary/tank/nitrogen,/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"fy" = (/obj/structure/cable{icon_state = "6-8"},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"fz" = (/obj/structure/cable{icon_state = "0-8"},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/power/terminal{dir = 1},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"fB" = (/obj/machinery/sleeper,/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/medical)
+"fS" = (/obj/structure/table/bronze,/obj/effect/mob_spawn/drone,/turf/open/floor/bronze/light,/area/ship/science)
+"ga" = (/obj/machinery/atmospherics/components/trinary/filter/atmos/n2{dir = 8},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"gb" = (/obj/structure/window/bronze,/obj/machinery/atmospherics/components/unary/shuttle/heater/tank{dir = 1},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"gq" = (/obj/machinery/atmospherics/components/trinary/mixer/airmix{dir = 4; node1_concentration = 0.21; node2_concentration = 0.79},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"gv" = (/obj/machinery/rnd/production/protolathe,/turf/open/floor/bronze/light,/area/ship/science)
+"gT" = (/obj/structure/fluff/clockwork/clockgolem_remains,/obj/machinery/light,/turf/open/floor/bronze/light,/area/ship/construction)
+"gW" = (/obj/structure/table/bronze,/obj/item/lighter/clockwork,/obj/item/lighter/clockwork,/obj/item/lighter/clockwork,/obj/item/lighter/clockwork,/obj/item/lighter/clockwork,/obj/item/lighter/clockwork,/turf/open/floor/bronze/light,/area/ship/construction)
+"hb" = (/obj/machinery/rnd/production/circuit_imprinter,/turf/open/floor/bronze/light,/area/ship/science)
+"hu" = (/obj/structure/table/bronze,/obj/item/radio/intercom/wideband,/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"hV" = (/obj/structure/fluff/clockwork/clockgolem_remains,/obj/machinery/light{dir = 4},/turf/open/floor/bronze/light,/area/ship/construction)
+"iX" = (/obj/machinery/computer/communications,/turf/open/floor/bronze/light,/area/ship/bridge)
+"jk" = (/obj/machinery/power/apc/auto_name/south,/turf/open/floor/bronze/light,/area/ship/hallway/central)
+"jt" = (/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/construction)
+"jw" = (/obj/structure/chair/bronze{dir = 8},/obj/machinery/light,/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"jA" = (/obj/structure/lattice/clockwork,/obj/structure/lattice/catwalk/clockwork,/obj/machinery/atmospherics/components/unary/outlet_injector{dir = 4},/turf/template_noop,/area/ship/engineering/electrical)
+"kH" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/science)
+"kR" = (/obj/structure/chair/bronze{dir = 1},/turf/open/floor/bronze/light,/area/ship/bridge)
+"kU" = (/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"lj" = (/obj/structure/closet/cabinet,/obj/item/gun/ballistic/bow,/obj/item/gun/ballistic/bow,/obj/item/gun/ballistic/bow,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/obj/item/ammo_casing/caseless/arrow/bronze,/turf/open/floor/bronze/light,/area/ship/construction)
+"lG" = (/obj/structure/fluff/clockwork/alloy_shards/medium,/obj/structure/fluff/clockwork/alloy_shards/medium,/obj/machinery/button/door{id = reeberight; pixel_x = 25},/turf/open/floor/bronze/light,/area/ship/construction)
+"lP" = (/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"lS" = (/obj/structure/closet,/obj/item/clothing/shoes/bronze,/obj/item/clothing/shoes/bronze,/obj/item/clothing/shoes/bronze,/obj/item/clothing/shoes/bronze,/obj/item/clothing/shoes/bronze,/obj/item/clothing/shoes/bronze,/obj/item/clothing/suit/bronze,/obj/item/clothing/suit/bronze,/obj/item/clothing/suit/bronze,/obj/item/clothing/suit/bronze,/obj/item/clothing/suit/bronze,/obj/item/clothing/suit/bronze,/obj/item/clothing/head/bronze,/obj/item/clothing/head/bronze,/obj/item/clothing/head/bronze,/obj/item/clothing/head/bronze,/obj/item/clothing/head/bronze,/obj/item/clothing/head/bronze,/turf/open/floor/bronze/light,/area/ship/crew/dorm)
+"mn" = (/obj/structure/noticeboard,/obj/item/paper/fluff/ruins/djstation{name = "paper - 'Station Radio Frequencies'"},/turf/closed/wall/mineral/bronze,/area/ship/engineering/communications)
+"ne" = (/obj/structure/lattice/clockwork,/obj/structure/lattice/clockwork,/turf/template_noop,/area/ship/external)
+"nm" = (/obj/item/radio/intercom/wideband{pixel_x = 28},/obj/structure/chair/bronze{dir = 1},/turf/open/floor/bronze/light,/area/ship/bridge)
+"nL" = (/turf/closed/wall/mineral/bronze,/area/ship/bridge)
+"nM" = (/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 6},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"nP" = (/obj/machinery/atmospherics/components/trinary/filter/atmos/o2{dir = 8},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"nT" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/crew/dorm)
+"ou" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/bridge)
+"oy" = (/obj/machinery/power/apc/auto_name/east,/turf/open/floor/bronze/light,/area/ship/medical)
+"oC" = (/turf/open/floor/bronze/light,/area/ship/crew/dorm)
+"pc" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"pw" = (/obj/machinery/power/shuttle/engine/fueled/plasma{dir = 1},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"qd" = (/obj/machinery/power/terminal,/obj/structure/cable,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"qo" = (/obj/machinery/power/smes/engineering,/obj/structure/cable,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"qu" = (/obj/structure/cable{icon_state = "5-8"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"qD" = (/obj/structure/fluff/clockwork/clockgolem_remains,/turf/open/floor/bronze/light,/area/ship/construction)
+"qR" = (/obj/structure/lattice/clockwork,/obj/structure/girder/bronze,/turf/template_noop,/area/ship/external)
+"qS" = (/obj/machinery/rnd/destructive_analyzer,/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/science)
+"qT" = (/obj/structure/fluff/clockwork/alloy_shards/medium_gearbit,/turf/open/floor/bronze,/area/ship/construction)
+"rd" = (/obj/structure/table/bronze,/obj/item/radio,/obj/item/radio,/obj/item/radio,/obj/item/radio,/obj/item/radio,/obj/item/radio,/turf/open/floor/bronze/light,/area/ship/bridge)
+"rv" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"rR" = (/obj/structure/chair/bronze{dir = 4},/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"rZ" = (/obj/structure/fluff/clockwork/alloy_shards,/obj/machinery/light{dir = 4},/turf/open/floor/bronze/light,/area/ship/construction)
+"se" = (/turf/open/floor/bronze/light,/area/ship/science)
+"sM" = (/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"sQ" = (/turf/closed/wall/mineral/bronze,/area/ship/hallway/central)
+"sR" = (/obj/machinery/atmospherics/pipe/manifold/yellow/visible{dir = 8},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"ud" = (/obj/machinery/rnd/server,/turf/open/floor/bronze/light,/area/ship/hallway/central)
+"ue" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/hallway/central)
+"um" = (/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"uH" = (/obj/structure/fluff/clockwork/alloy_shards/large,/turf/open/floor/bronze/light,/area/ship/construction)
+"uI" = (/obj/structure/cable{icon_state = "1-8"},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"uZ" = (/obj/effect/turf_decal/spline/fancy/black{dir = 8},/turf/open/floor/plasteel/white,/area/ship/construction)
+"vj" = (/turf/open/floor/grass/fakebasalt,/area/ship/construction)
+"wf" = (/obj/machinery/door/airlock/bronze/seethru,/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"wi" = (/obj/structure/cable{icon_state = "2-4"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"wj" = (/obj/machinery/computer/crew,/obj/machinery/light{dir = 4},/turf/open/floor/bronze/light,/area/ship/bridge)
+"wq" = (/obj/machinery/computer/autopilot,/turf/open/floor/bronze/light,/area/ship/bridge)
+"xa" = (/turf/open/floor/plating,/area/ship/engineering/electrical)
+"xU" = (/turf/open/floor/plasteel/white,/area/ship/construction)
+"yi" = (/obj/structure/girder/bronze,/turf/template_noop,/area/ship/external)
+"yl" = (/obj/structure/closet/wardrobe/mixed,/obj/machinery/power/apc/auto_name/north,/obj/machinery/light{dir = 8},/turf/open/floor/bronze/light,/area/ship/crew/dorm)
+"yx" = (/turf/closed/wall/mineral/bronze,/area/ship/engineering/communications)
+"yC" = (/turf/template_noop,/area/space)
+"yD" = (/obj/structure/cable{icon_state = "6-8"},/obj/structure/cable{icon_state = "0-4"},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/power/terminal{dir = 1},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"yJ" = (/obj/machinery/telecomms/server/presets/common,/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"yM" = (/obj/structure/window/bronze,/obj/structure/window/bronze{dir = 8},/obj/structure/table/bronze,/obj/effect/turf_decal/spline/fancy/black{dir = 10},/obj/effect/turf_decal/spline/fancy/black{dir = 10},/turf/open/floor/plasteel/white,/area/ship/construction)
+"yR" = (/obj/machinery/atmospherics/components/binary/pump{dir = 4; name = "engine fuel pump"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"zj" = (/obj/structure/cable{icon_state = "4-10"},/obj/structure/cable{icon_state = "0-8"},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/power/terminal{dir = 1},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"zr" = (/obj/item/storage/firstaid,/obj/structure/table/bronze,/obj/item/storage/backpack/duffelbag/med/surgery,/turf/open/floor/bronze/light,/area/ship/medical)
+"zx" = (/obj/machinery/power/shuttle/engine/electric{dir = 1},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"zG" = (/obj/machinery/light,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"zS" = (/obj/structure/cable{icon_state = "2-9"},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"zZ" = (/obj/machinery/smartfridge/bloodbank/preloaded,/turf/closed/wall/mineral/bronze,/area/ship/medical)
+"Ai" = (/obj/structure/cable{icon_state = "2-8"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Ar" = (/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"Av" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Bg" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/engineering/communications)
+"Br" = (/turf/open/floor/bronze/light,/area/ship/medical)
+"BW" = (/turf/closed/wall/mineral/bronze,/area/ship/engineering/electrical)
+"Ca" = (/obj/structure/lattice/clockwork,/turf/template_noop,/area/ship/external)
+"CB" = (/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"CL" = (/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"CR" = (/obj/machinery/door/airlock/bronze/seethru,/turf/open/floor/bronze/light,/area/ship/hallway/central)
+"Dj" = (/obj/structure/fluff/clockwork/alloy_shards,/turf/open/floor/bronze/light,/area/ship/construction)
+"Dk" = (/obj/machinery/door/airlock/bronze/seethru,/turf/open/floor/bronze/light,/area/ship/medical)
+"Dr" = (/turf/template_noop,/area/template_noop)
+"Ds" = (/obj/machinery/atmospherics/pipe/simple/orange/visible,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Dv" = (/obj/structure/cable{icon_state = "2-4"},/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Dx" = (/obj/effect/turf_decal/techfloor/orange,/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"DN" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/orange/visible,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"DW" = (/obj/structure/dead_ratvar,/turf/open/floor/grass/fakebasalt,/area/ship/construction)
+"DY" = (/obj/structure/table/bronze,/obj/structure/statue/bronze/marx,/turf/open/floor/bronze/light,/area/ship/bridge)
+"Ek" = (/turf/closed/wall/mineral/bronze,/area/ship/construction)
+"EM" = (/obj/machinery/cryopod{dir = 1},/obj/machinery/computer/cryopod{pixel_x = -31},/turf/open/floor/bronze/light,/area/ship/crew/dorm)
+"EP" = (/obj/structure/fluff/clockwork/alloy_shards/large,/obj/structure/fluff/clockwork/alloy_shards/large,/turf/open/floor/bronze/light,/area/ship/construction)
+"Fq" = (/obj/structure/cable{icon_state = "1-4"},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Fv" = (/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"FB" = (/obj/machinery/power/apc/auto_name/north,/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"FO" = (/obj/structure/table/bronze,/obj/item/toy/clockwork_watch,/turf/open/floor/bronze/light,/area/ship/construction)
+"FX" = (/obj/machinery/door/airlock/bronze/seethru,/turf/open/floor/bronze/light,/area/ship/crew/dorm)
+"Gh" = (/obj/structure/table/bronze,/obj/item/nullrod/spear,/obj/item/nullrod/spear,/obj/item/nullrod/spear,/obj/item/nullrod/spear,/obj/item/nullrod/spear,/obj/item/nullrod/spear,/turf/open/floor/bronze/light,/area/ship/construction)
+"Gv" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"GF" = (/obj/machinery/atmospherics/pipe/simple/supply/visible{dir = 9},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"GO" = (/obj/structure/cable{icon_state = "4-8"},/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Hl" = (/obj/machinery/atmospherics/components/binary/pump,/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"Hr" = (/turf/closed/wall/mineral/bronze,/area/ship/crew/dorm)
+"HT" = (/obj/effect/turf_decal/spline/fancy/black{dir = 1},/turf/open/floor/plasteel/white,/area/ship/construction)
+"Id" = (/obj/machinery/power/apc/auto_name/west,/turf/open/floor/bronze/light,/area/ship/bridge)
+"Ij" = (/obj/machinery/holopad/emergency,/turf/open/floor/bronze/light,/area/ship/bridge)
+"Ik" = (/obj/machinery/suit_storage_unit,/obj/item/tank/internals/oxygen,/obj/item/clothing/mask/gas/atmos,/obj/item/clothing/suit/space/hardsuit/ert/paranormal/inquisitor,/obj/effect/turf_decal/techfloor/orange{dir = 8},/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"Iy" = (/obj/structure/table/bronze,/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/construction)
+"IF" = (/obj/structure/window/bronze,/obj/structure/table/bronze,/obj/effect/turf_decal/spline/fancy/black{dir = 6},/turf/open/floor/plasteel/white,/area/ship/construction)
+"IT" = (/obj/machinery/light{dir = 4},/turf/open/floor/bronze/light,/area/ship/construction)
+"IY" = (/obj/structure/window/bronze{dir = 8},/obj/effect/turf_decal/spline/fancy/black{dir = 9},/turf/open/floor/plasteel/white,/area/ship/construction)
+"Jb" = (/obj/structure/table/bronze,/obj/item/crowbar/old,/turf/open/floor/bronze/light,/area/ship/construction)
+"Js" = (/obj/machinery/atmospherics/pipe/manifold/supply{dir = 4},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"Jx" = (/obj/structure/fluff/clockwork/alloy_shards/small,/turf/open/floor/bronze/light,/area/ship/construction)
+"JH" = (/obj/structure/table/bronze,/obj/item/toy/clockwork_watch,/obj/item/toy/clockwork_watch,/obj/item/toy/clockwork_watch,/obj/item/toy/clockwork_watch,/obj/item/toy/clockwork_watch,/obj/machinery/light{dir = 4},/turf/open/floor/bronze/light,/area/ship/crew/dorm)
+"JN" = (/obj/effect/turf_decal/techfloor/orange{dir = 1},/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"JS" = (/obj/structure/cable{icon_state = "0-4"},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/power/terminal{dir = 1},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Kp" = (/obj/machinery/atmospherics/components/unary/tank/air,/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"Kz" = (/obj/structure/fluff/clockwork/alloy_shards/small,/turf/open/floor/grass/fakebasalt,/area/ship/construction)
+"KE" = (/obj/machinery/atmospherics/pipe/simple/supply/visible{dir = 4},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"KK" = (/obj/structure/window/bronze,/obj/machinery/power/smes/shuttle/precharged{dir = 1},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"KO" = (/obj/structure/fluff/clockwork/fallen_armor,/turf/open/floor/bronze/light,/area/ship/construction)
+"La" = (/turf/open/floor/bronze/light,/area/ship/bridge)
+"Lg" = (/obj/machinery/door/poddoor{id = reeberight},/turf/open/floor/bronze/light,/area/ship/construction)
+"Ll" = (/obj/structure/table/bronze,/obj/effect/mob_spawn/drone,/obj/machinery/power/apc/auto_name/south,/turf/open/floor/bronze/light,/area/ship/science)
+"LD" = (/obj/structure/fluff/clockwork/alloy_shards/small,/obj/machinery/light{dir = 4},/turf/open/floor/bronze/light,/area/ship/construction)
+"LH" = (/obj/machinery/ore_silo,/turf/open/floor/bronze/light,/area/ship/hallway/central)
+"LL" = (/turf/open/floor/bronze/light,/area/ship/hallway/central)
+"LX" = (/obj/machinery/mineral/ore_redemption,/obj/item/multitool/old,/turf/open/floor/bronze,/area/ship/hallway/central)
+"Mr" = (/obj/structure/cable{icon_state = "4-10"},/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Mt" = (/obj/structure/table/bronze,/obj/item/areaeditor/shuttle,/turf/open/floor/bronze/light,/area/ship/bridge)
+"MF" = (/obj/effect/turf_decal/spline/fancy/black{dir = 4},/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/white,/area/ship/construction)
+"Nj" = (/obj/machinery/suit_storage_unit,/obj/item/tank/internals/oxygen,/obj/item/clothing/mask/gas/atmos,/obj/item/clothing/suit/space/hardsuit/ert/paranormal/inquisitor,/obj/structure/window/bronze{dir = 4},/obj/effect/turf_decal/techfloor/orange{dir = 4},/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"Nn" = (/obj/structure/lattice/catwalk/clockwork,/turf/open/floor/bronze/light,/area/ship/construction)
+"Nr" = (/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"NM" = (/obj/machinery/door/airlock/bronze/seethru,/turf/open/floor/bronze/light,/area/ship/science)
+"NR" = (/obj/effect/turf_decal/spline/fancy/black{dir = 5},/turf/open/floor/plasteel/white,/area/ship/construction)
+"Og" = (/obj/structure/fluff/clockwork/alloy_shards/medium_gearbit,/turf/open/floor/bronze/light,/area/ship/construction)
+"Or" = (/obj/machinery/atmospherics/pipe/manifold4w/orange,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"OK" = (/obj/effect/turf_decal/spline/fancy/black{dir = 1},/obj/machinery/light{dir = 1},/turf/open/floor/plasteel/white,/area/ship/construction)
+"OX" = (/obj/machinery/suit_storage_unit,/obj/item/tank/internals/oxygen,/obj/item/clothing/mask/gas/atmos,/obj/item/clothing/suit/space/hardsuit/ert/paranormal/inquisitor,/obj/structure/window/bronze,/obj/structure/window/bronze{dir = 4},/obj/effect/turf_decal/techfloor/orange{dir = 6},/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+"Px" = (/obj/machinery/atmospherics/components/unary/tank/toxins,/obj/machinery/light,/turf/open/floor/plating,/area/ship/engineering/electrical)
+"PH" = (/obj/structure/table/bronze,/obj/item/stack/tile/bronze/thirty{amount = 50},/obj/item/stack/tile/bronze/thirty{amount = 50},/obj/item/stack/tile/bronze/thirty{amount = 50},/obj/item/stack/tile/bronze/thirty{amount = 50},/turf/open/floor/bronze/light,/area/ship/construction)
+"Qh" = (/obj/machinery/stasis,/turf/open/floor/bronze/light,/area/ship/medical)
+"Ql" = (/obj/structure/tank_dispenser,/turf/open/floor/bronze/light,/area/ship/construction)
+"Qv" = (/obj/machinery/atmospherics/pipe/manifold/supply{dir = 8},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"Rk" = (/obj/structure/fluff/clockwork/blind_eye,/turf/open/floor/bronze/light,/area/ship/construction)
+"Sj" = (/obj/machinery/atmospherics/pipe/simple/orange/visible{dir = 10},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Sn" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/medical)
+"So" = (/obj/structure/fluff/clockwork/alloy_shards/medium,/obj/machinery/button/door{id = reeberight; pixel_x = 25},/turf/open/floor/bronze/light,/area/ship/construction)
+"St" = (/obj/machinery/light{dir = 8},/turf/open/floor/bronze/light,/area/ship/construction)
+"SK" = (/obj/structure/fluff/clockwork/alloy_shards/medium,/turf/open/floor/bronze,/area/ship/construction)
+"SL" = (/turf/open/floor/bronze,/area/ship/construction)
+"ST" = (/turf/closed/wall/mineral/bronze,/area/ship/science)
+"SW" = (/obj/structure/table/bronze,/obj/item/toy/plush/plushvar{pixel_x = 5; pixel_y = -5},/obj/item/toy/plush/plushvar{pixel_x = -5; pixel_y = -5},/obj/item/toy/plush/plushvar{pixel_x = -5; pixel_y = 5},/obj/item/toy/plush/plushvar{pixel_x = 5; pixel_y = 5},/turf/open/floor/bronze/light,/area/ship/bridge)
+"Ti" = (/obj/machinery/autolathe,/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/science)
+"TP" = (/obj/structure/chair/bronze{dir = 4},/obj/machinery/power/apc/auto_name/north,/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"TW" = (/turf/closed/wall/mineral/bronze,/area/ship/medical)
+"TY" = (/obj/machinery/power/apc/auto_name/north,/turf/open/floor/bronze/light,/area/ship/construction)
+"Uo" = (/obj/item/radio/intercom{pixel_x = -28},/obj/structure/chair/bronze{dir = 1},/turf/open/floor/bronze/light,/area/ship/bridge)
+"US" = (/obj/machinery/computer/rdconsole/production,/turf/open/floor/bronze/light,/area/ship/science)
+"VH" = (/turf/open/floor/bronze/light,/area/ship/construction)
+"VK" = (/obj/structure/fluff/clockwork/alloy_shards/medium,/turf/open/floor/bronze/light,/area/ship/construction)
+"VN" = (/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"Wf" = (/obj/structure/table/bronze,/obj/item/pickaxe,/obj/item/pickaxe,/obj/item/pickaxe,/obj/item/t_scanner/adv_mining_scanner,/obj/item/t_scanner/adv_mining_scanner,/obj/item/t_scanner/adv_mining_scanner,/obj/item/storage/bag/ore,/obj/item/storage/bag/ore,/obj/item/storage/bag/ore,/turf/open/floor/bronze/light,/area/ship/bridge)
+"Wi" = (/obj/machinery/atmospherics/pipe/manifold/supply,/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"Wj" = (/obj/structure/grille,/obj/structure/window/bronze/fulltile,/turf/open/floor/plating,/area/ship/construction)
+"Wm" = (/obj/machinery/atmospherics/pipe/manifold/cyan/visible{dir = 8},/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"Wn" = (/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "1-4"},/obj/machinery/atmospherics/components/trinary/filter/atmos/flipped/plasma{dir = 4},/turf/open/floor/plating,/area/ship/engineering/electrical)
+"WL" = (/obj/structure/window/bronze,/obj/structure/table/bronze,/obj/effect/spawner/lootdrop/donkpockets,/obj/effect/spawner/lootdrop/donkpockets,/obj/effect/spawner/lootdrop/donkpockets,/obj/effect/spawner/lootdrop/donkpockets,/obj/effect/turf_decal/spline/fancy/black,/turf/open/floor/plasteel/white,/area/ship/construction)
+"Ya" = (/obj/machinery/rnd/experimentor,/turf/open/floor/bronze/light,/area/ship/science)
+"Yi" = (/obj/machinery/door/airlock/bronze/seethru,/obj/machinery/atmospherics/pipe/simple/scrubbers/visible{dir = 8},/turf/open/floor/bronze,/area/ship/engineering/electrical)
+"Yj" = (/obj/structure/window/bronze,/obj/structure/table/bronze,/obj/machinery/microwave,/obj/effect/turf_decal/spline/fancy/black,/turf/open/floor/plasteel/white,/area/ship/construction)
+"Yl" = (/obj/structure/table/bronze,/obj/item/radio/intercom,/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"Ym" = (/obj/machinery/light,/turf/open/floor/bronze/light,/area/ship/construction)
+"Yy" = (/obj/structure/lattice/clockwork,/obj/structure/lattice/catwalk/clockwork,/turf/template_noop,/area/ship/external)
+"Yz" = (/obj/structure/chair/bronze{dir = 8},/obj/machinery/light{dir = 1},/turf/open/floor/bronze/light,/area/ship/engineering/communications)
+"ZH" = (/obj/machinery/atmospherics/pipe/simple/cyan/visible{dir = 4},/obj/machinery/atmospherics/pipe/simple/yellow/visible,/turf/open/floor/bronze/light,/area/ship/engineering/electrical)
+"ZV" = (/obj/machinery/suit_storage_unit,/obj/item/tank/internals/oxygen,/obj/item/clothing/mask/gas/atmos,/obj/item/clothing/suit/space/hardsuit/ert/paranormal/inquisitor,/obj/structure/window/bronze,/obj/effect/turf_decal/techfloor/orange{dir = 10},/turf/open/floor/plasteel/tech/grid,/area/ship/construction)
+
+(1,1,1) = {"
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrCaCaCaCaCaCayiCaneDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrCanLououououounLCaDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDryinLdKwqfhiXwjnLCaCaDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrCanLUokRkRkRnmnLCaDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrCaouLaSWIjSWLaouqRDrDrCaDrDryiDrDrCaDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrCaCayiCanLIdLaLaLaLanLCaDrCaCaqRTWTWSnTWTWCaDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrqRCaDrDryxBgyxCanLrdDYLaMtWfnLSTkHkHkHSTTWfBzrfBTWqRDrDrDrDrDrDr
+DrDrDrDrDrDrHrHrHrHrHrmnyxyJyxmnyxueueCRueueSTqSgvUShbTizZBrBrBrTWDrDrDrDrDrDrDr
+DrDrDrDrDrDrHryldqJHHrYlYzumTPhuBgLLLLLLLLLLkHseseseseseTWduBrbuSnDrDrDrDrDrDrDr
+DrDrDrDrDrDrnToCoCoCFXumumumumumfdLLLHLLudLLNMseseseseseDkBrBroyTWCaDrDrDrDrDrDr
+DrDrDrDrDrDrHrEMoClSHrYljwumrRhuBgLLLLLLjkLLkHYaseseLlfSTWQhBrQhTWyCDrDrDrDrDrDr
+DrDrDrDrDrDrHrHrFXHrHryxyxfdBgBgyxueLXCRsQueSTkHkHNMSTSTTWTWDkTWTWCaDrDrDrDrDrDr
+DrDrDrDrDrDrEkaaJNadVHVHjtVHVHFOIyljVHVHjtVHTYVHVHVHVHVHIYOKHTNREkCaDrDrDrDrDrDr
+DrDrDrDrDrqREkIkCBNjVHVHVHVHVHJbVHVHVHVHVHVHVHVHVHVHVHVHuZxUxUMFEkqRDrDrDrDrDrDr
+DrDrDrDrDrCaEkZVDxOXVHVHVHVHVHVHVHVHVHVHVHVHPHGhVHVHVHVHyMYjWLIFEkDrDrDrDrDrDrDr
+DrDrDrDrDrCaWjQlVHVHVHVHVHVHVHVHVHVHVHVHVHVHgWciVHVHVHVHVHVHVHVHWjDrDrDrDrDrDrDr
+DrDrDrDrDrCaWjVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHWjDrDrDrDrDrDrDr
+DrDrDrDrDryCEkStVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHITEkDrDrDrDrDrDrDr
+DrDrDrDrDrCaEkVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHEkqRDrDrDrDrDrDr
+DrDrDrDrDrDrEkVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHEkqRDrDrDrDrDrDr
+DrDrDrDrDrCaEkVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHEkCaDrDrDrDrDrDr
+DrDrDrDrDrCaEkStVHVHVHSLSLSLvjSLSLSLSLSLSLSLvjSLSLvjSLSLSLJxVHLDEkDrDrDrDrDrDrDr
+DrDrDrDrDrCaEkfmVHDjVHSLSLvjvjSLvjvjvjvjvjvjvjvjvjvjvjSLSLVHEPSoEkyiDrDrDrDrDrDr
+DrDrDrDrDrYybGVKVHOgVHSLvjvjvjvjvjvjvjvjvjvjvjvjvjvjvjSLqTVKOgDjLgYyDrDrDrDrDrDr
+DrDrDrDrDrYybGVHVHuHVHvjvjvjvjvjvjvjvjvjvjvjvjvjvjvjvjvjKzVHVHVHLgYyDrDrDrDrDrDr
+DrDrDrDrDrYybGOguHVKVHSLvjDWvjvjvjvjvjvjvjvjvjvjvjvjvjvjSKOgDjVHLgYyDrDrDrDrDrDr
+DrDrDrDrDrDrEkfmVHDjVHSLSLSLvjvjvjvjvjvjvjvjvjvjvjvjvjSLSLVHVHlGEkCaDrDrDrDrDrDr
+DrDrDrDrDrDrEkVHVHVHVHSLSLSLSLvjSLSLSLvjSLSLSLvjSLvjSLSLSLuHVHrZEkCaDrDrDrDrDrDr
+DrDrDrDrDrCaWjStVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHJxVHWjCaDrDrDrDrDrDr
+DrDrDrDrDrCaWjVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHWjCaDrDrDrDrDrDr
+DrDrDrDrDrCaWjVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHVHWjCaDrDrDrDrDrDr
+DrDrDrDrDrDrEkRkVHVHVHVHVHVHVHRkVHVHVHVHVHVHVHRkVHVHVHVHVHVHVHcZEkDrDrDrDrDrDrDr
+DrDrDrDrDrDraqNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnaqDrDrDrDrDrDrDr
+DrDrDrDrDrqREkqDVHVHqDVHVHVHVHVHVHVHKOVHVHqDVHVHVHVHVHVHKOVHqDVHEkCaDrDrDrDrDrDr
+DrDrDrDrDrDrWjVHVHVHVHVHKOVHVHVHVHVHVHVHVHqDVHVHVHVHKOVHVHVHVHVHWjCaDrDrDrDrDrDr
+DrDrDrDrDrDrWjKOVHVHVHqDVHVHVHVHVHVHVHVHVHKOVHVHVHVHVHVHVHqDVHVHWjCaDrDrDrDrDrDr
+DrDrDrDrDrCaEkStqDVHVHVHVHVHVHgTVHVHVHVHVHVHVHYmVHVHqDVHVHVHVHhVEkCaDrDrDrDrDrDr
+DrDrDrDrDrCaEkBWBWpcpcetpcpcBWBWBWpcpcetpcpcBWBWBWpcpcetpcpcBWBWEkCaDrDrDrDrDrDr
+DrDrDrDrDrDrCaBWbqfwFvFvFvdzKpBWFBFvFvFvFvFvArBWArFvFvFvFvFvArBWDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrCaBWWmZHgqJsFvHlHlpcFvFvFvFvFvFvFvpcFvFvFvFvFvFvFvBWCaDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrBWbfsRaJQvKEWiGFpcFvFvxaVNxaFvFvpcFvFvFvFvFvFvFvBWCaDrDrDrDrDrDrDr
+DrDrDrDrDrDrjAcVnPgarvrvrvGvGvwfDvkUGOWnGOsMdSYiGvGvrvFvrvrvrvcVfaDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrBWFvFvFvFvxaxaxapcqoqobgDsbgqoqopcxaxaxaFvFvFvFvBWqRDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrBWFvxaxanMCLCLMrAvJSyDuIOrFqzjfzAvfyCLCLSjxaxaFvBWDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrqRBWzGxawiDNlPquzGBWPxyRzSOrcoebPxBWzGaoNrDNAixazGBWCaDrDrDrDrDrDrDr
+DrDrDrDrDrDrCaBWBWBWqdDsqdBWBWBWBWBWqdDsqdBWBWBWBWBWqdDsqdBWBWBWCaDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrCaCaBWKKgbKKBWCayiCaBWKKgbKKBWDrDrDrBWKKgbKKBWCaCaDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrBWzxpwzxBWDrDrDrBWzxpwzxBWCaDrDrBWzxpwzxBWCaDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrCaDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+DrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDr
+"}
