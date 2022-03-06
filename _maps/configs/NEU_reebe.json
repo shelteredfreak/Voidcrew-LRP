@@ -1,0 +1,11 @@
+{
+	"map_name": "Reebe-Class Repaired Clockwork Structure",
+	"map_short_name": "Reebe-class",
+	"prefix": "NEU",
+	"map_path": "_maps/shuttles/shiptest/reebe.dmm",
+	"map_id" : "reebe",
+	"job_slots": {
+		"Chaplain": 6
+		},
+	"cost": 900
+}
